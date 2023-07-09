@@ -1,0 +1,75 @@
+create npm project : doing write on terminal npm init -y and esse hamari package.json file generate ho gyi 
+
+create index,css,js files
+
+install dependecies,express,nodemon(dev dep) : library i called dependency
+
+create a express server(server.js)
+
+do frontend part//made krne k liye index.html k andr jayenge tb interface banayenge jo whatsapp mae 
+bheja hai
+
+install socket.io,set up socket.io in server.js and client client.js
+
+client send message logic in clent.js
+
+recieve message on server and broadcast to all clients 
+
+npm install express esiliye kiya jo server side ki cheez ko handle krne k liye aur routing ko krne k liye 
+use hoga express ka
+
+//brand section is a header where whatsapp is written
+max-width:90% ye mobile screen k liye 
+ .brand{
+        padding:20px;
+        background: #f1f1f1;
+        display: flex;
+        align-items: center;
+    }logo aur brand name eak line mae aa jaye 
+.brand h1{
+    
+}//brand name ko thoda sa design kr rehe 
+
+MESSAGE AREA K ANDR MESSAGE HUM LIKHGE
+
+//message h4 tha user k liye 
+
+
+<script src="/socket.io/socket.io.js"></script> this line indicates that client library load ho jayegi
+/socket.io/socket.io.js ye jo socket server aa raha hai ye aa raha hai node server se
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
